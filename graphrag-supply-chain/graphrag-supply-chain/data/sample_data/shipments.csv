@@ -1,0 +1,3 @@
+id,status,eta,origin,destination,carrier
+SHIP-501,In Transit,2025-12-05,WH-12,CUST-01,Maersk
+SHIP-502,Delayed,2025-12-10,WH-07,CUST-03,DHL

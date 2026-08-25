@@ -1,0 +1,10 @@
+langchain==0.3.7
+langchain-openai==0.2.9
+langchain-community==0.3.7
+neo4j==5.26.0
+openai==1.54.4
+chromadb==0.5.20
+pandas==2.2.3
+python-dotenv==1.0.1
+tiktoken==0.8.0
+pydantic==2.9.2

@@ -1,0 +1,22 @@
+Incident Report - September 2025
+
+On September 14, 2025, Acme Metals reported a two-week port delay at their
+primary export terminal due to congestion, affecting outbound shipments of
+Steel Casing (SKU-A100) bound for Warehouse Dallas. Severity: Medium. This
+delay is expected to push replenishment of Warehouse Dallas stock by
+approximately 10-14 days, which may impact fulfillment for Northwind Traders
+and Contoso Retail, both of whom are served out of Warehouse Dallas.
+
+Incident Report - October 2025
+
+Delta Electronics experienced a component shortage for Circuit Board
+(SKU-B204) production in early October 2025 due to a semiconductor supplier
+issue upstream. Severity: High. Acme Metals is listed as a secondary
+supplier for the same Circuit Board product and was asked to increase
+allocation temporarily, but at a higher lead time of 30 days.
+
+Incident Report - November 2025
+
+Warehouse Rotterdam flagged a customs clearance issue in late November 2025
+affecting Cotton Fabric (SKU-C305) shipments to Fabrikam Inc. Severity: Low.
+Resolved within five business days with no material fulfillment impact.
