@@ -1,0 +1,5 @@
+source_id,target_id,lead_time_days,cost
+SUP-001,P-1001,21,120.50
+SUP-003,P-2004,14,85.00
+SUP-001,P-2004,30,95.00
+SUP-002,P-3050,10,12.75

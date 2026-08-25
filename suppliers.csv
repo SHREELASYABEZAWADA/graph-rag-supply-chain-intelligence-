@@ -1,0 +1,4 @@
+id,name,region,tier,risk_score
+SUP-001,Acme Metals,APAC,1,0.62
+SUP-002,Bright Textiles,EMEA,2,0.31
+SUP-003,Delta Electronics,APAC,1,0.44
